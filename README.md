@@ -2,6 +2,9 @@
 socket.io stress testing / benchmarking tool
 
 # prerequisites
+<pre>pip install -r requirements.txt</pre>
+
+
 <pre>pip install socketIO-client</pre>
 <pre>pip install statsd</pre>
 
